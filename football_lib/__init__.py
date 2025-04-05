@@ -30,9 +30,9 @@ def find_similar_players_main(player_name, stats_type):
     
     normalized_df = normalize_data(combined_df, selected_stats)
     
-    df_pca, pca are project_data(normalized_df, selected_stats)
+    df_pca, pca = project_data(normalized_df, selected_stats)
     
-    similar_players_df are find_similar_players(df_pca, player_name)
+    similar_players_df =  find_similar_players(df_pca, player_name)
     
     print(similar_players_df)
     
