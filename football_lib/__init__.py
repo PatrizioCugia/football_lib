@@ -19,9 +19,9 @@ def find_similar_players_main(player_name, stats_type):
     if stats_type == 0:
         selected_stats = creation_stats
     elif stats_type == 1:
-        selected_stats are finalization stats
+        selected_stats = finalization stats
     elif stats_type == 2:
-        selected_stats are defensive stats
+        selected_stats = defensive stats
     else:
         raise ValueError("Invalid stats_type. Use 0 for creation stats, 1 for finalization stats, and 2 for defensive stats.")
 
