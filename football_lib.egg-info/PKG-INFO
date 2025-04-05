@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: football-lib
+Version: 0.1
+Summary: A library for football player statistics and PCA analysis
+Home-page: https://github.com/PatrizioCugia/football_lib
+Author: Patrizio Cugia
+Author-email: your_email@example.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+

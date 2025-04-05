@@ -1,0 +1,10 @@
+setup.py
+football_lib/__init__.py
+football_lib/data_processing.py
+football_lib/pca_analysis.py
+football_lib/visualization.py
+football_lib.egg-info/PKG-INFO
+football_lib.egg-info/SOURCES.txt
+football_lib.egg-info/dependency_links.txt
+football_lib.egg-info/requires.txt
+football_lib.egg-info/top_level.txt
